@@ -4,4 +4,5 @@ I am coding this in Mircosoft Visual Studio 2019 using C++.
 If you do not have/do not know how to use Visual Studio, you can copy paste the code from main.cpp into this online C++ compiler.
 https://www.onlinegdb.com/online_c++_compiler
 
+https://onlinegdb.com/H8WldqBJG - should have code ready to go
 CURRENTLY ONLY HAVE FEL IRON BOMBS AND ARCANE BOMBS CODED
