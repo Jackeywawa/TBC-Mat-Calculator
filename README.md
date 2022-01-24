@@ -3,3 +3,5 @@ A calculator that finds the specific amount of materials needed to make certain 
 I am coding this in Mircosoft Visual Studio 2019 using C++.
 If you do not have/do not know how to use Visual Studio, you can copy paste the code from main.cpp into this online C++ compiler.
 https://www.onlinegdb.com/online_c++_compiler
+
+CURRENTLY ONLY HAVE FEL IRON BOMBS AND ARCANE BOMBS CODED
